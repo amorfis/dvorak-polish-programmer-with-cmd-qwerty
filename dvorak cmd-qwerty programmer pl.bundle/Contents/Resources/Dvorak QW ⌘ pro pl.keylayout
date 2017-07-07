@@ -1,7 +1,7 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.2.5.180 on 2017-07-07 at 00:39 (GMT+2)-->
-<keyboard group="126" id="-14903" name="Dvorak QW ⌘ pro pl" maxout="1">
+<!--Last edited by Ukelele version 3.2.5.180 on 2017-07-07 at 16:13 (GMT+2)-->
+<keyboard group="126" id="-1371" name="Dvorak QW ⌘ pro pl" maxout="1">
 	<layouts>
 		<layout first="0" last="0" mapSet="c18" modifiers="f4"/>
 		<layout first="18" last="18" mapSet="1fc" modifiers="f4"/>
